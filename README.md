@@ -14,5 +14,5 @@
 ---
 
 ### 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/syeda-zainab-mahreen-2a7001430?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- **LinkedIn:** [Syeda Zainab Mahreen] https://www.linkedin.com/in/syeda-zainab-mahreen-2a7001430?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - **Email:** zainabmahreen.syeda@gmail.com
