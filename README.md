@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Zainab! 👋
 
-<!--
-**zainabmahreen/zainabmahreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 About Me
+- 🎓 **1st Year CSE Student** focused on mastering core programming concepts.
+- 💻 **Currently Learning:** C Language, Data Structures, Git & GitHub.
+- 🎯 **Goal:** Building solid coding fundamentals and working on open-source projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+- **Languages:** Frontend Web Development — HTML, CSS, Javascript, Responsive Web Design & UI Design.
+- **Platforms & Tools:** Git, GitHub, Mobile/Desktop Compilers
+
+---
+
+### 📫 Connect With Me
+- **LinkedIn:** [https://www.linkedin.com/in/syeda-zainab-mahreen-2a7001430?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- **Email:** [zainabmahreen.syeda@gmail.com]
